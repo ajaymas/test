@@ -1,5 +1,1 @@
-
-hello
-Work in progress Ajay web page
-
-Ajay Kumar Webpage
+Practice C program for GDB debugger 
